@@ -1,0 +1,11 @@
+movieId,clean_title,genres,year
+260,Star Wars: Episode IV - A New Hope,Action|Adventure|Sci-Fi,1977.0
+356,Forrest Gump,Comedy|Drama|Romance|War,1994.0
+364,"Lion King, The",Adventure|Animation|Children|Drama|Musical|IMAX,1994.0
+480,Jurassic Park,Action|Adventure|Sci-Fi|Thriller,1993.0
+648,Mission: Impossible,Action|Adventure|Mystery|Thriller,1996.0
+780,Independence Day (a.k.a. ID4),Action|Adventure|Sci-Fi|Thriller,1996.0
+1210,Star Wars: Episode VI - Return of the Jedi,Action|Adventure|Sci-Fi,1983.0
+1265,Groundhog Day,Comedy|Fantasy|Romance,1993.0
+1270,Back to the Future,Adventure|Comedy|Sci-Fi,1985.0
+3114,Toy Story 2,Adventure|Animation|Children|Comedy|Fantasy,1999.0
